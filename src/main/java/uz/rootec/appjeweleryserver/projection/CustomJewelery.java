@@ -25,6 +25,8 @@ public interface CustomJewelery {
 
     Double getHallMark();
 
+    String getSerial();
+
     @Value("#{target.expert!=null?target.expert.firstName:null}")
     String getExpertFirstName();
 
