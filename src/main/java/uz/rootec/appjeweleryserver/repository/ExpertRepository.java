@@ -1,4 +1,4 @@
-//package uz.rootec.appjeweleryserver.repository;
+package uz.rootec.appjeweleryserver.repository;//package uz.rootec.appjeweleryserver.repository;
 //
 //import org.springframework.data.jpa.repository.JpaRepository;
 //import uz.rootec.appjeweleryserver.entity.Expert;

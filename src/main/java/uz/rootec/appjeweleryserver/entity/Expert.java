@@ -1,4 +1,4 @@
-//package uz.rootec.appjeweleryserver.entity;
+package uz.rootec.appjeweleryserver.entity;//package uz.rootec.appjeweleryserver.entity;
 //
 //import lombok.AllArgsConstructor;
 //import lombok.Data;
